@@ -28,7 +28,7 @@ persona that stays consistent, in fourteen languages.
 | Capability | How it works |
 |---|---|
 | **Real-time voice** | Gemini 3.1 Flash Live (speech-to-speech) over LiveKit WebRTC, with sub-second turn taking |
-| **Butler persona** | A formal, dryly sarcastic assistant who calls you "sir" or "madam" and always answers *"Jarvis, you there?"* with *"At your service, Sir."* |
+| **Butler persona** | A formal, dryly sarcastic assistant who calls you "ma'am" or "madam" and always answers *"Jarvis, you there?"* with *"At your service, Ma'am."* |
 | **Multilingual** | Detects and mirrors the speaker's language automatically; explicit `switch_language` tool covers 14 languages |
 | **Browser control** | 11 Playwright tools — navigate, inspect, click, type, scroll, switch tabs, screenshot, and search |
 | **Expressive speech** | Fish Audio S2.1 Pro with expressive markup for emotion and pacing |
